@@ -27,31 +27,46 @@ Create an intelligent and sleek ChatGPT-style chatbot using your OpenAI API key.
 
 ---
 
-## 🔧 Setup Guide
+## ⚡️ Quick Start
 
-1. **Clone the repository**
+1. **Clone this repo**
 
-   ```bash
-   git clone https://github.com/your-username/chatbot-ui.git
-   cd chatbot-ui
+    ```bash
+    git clone https://github.com/AnubhavChaturvedi-GitHub/ChatBot-Project.git
+    cd ChatBot-Project
+    ```
 
-	2.	Install dependencies
+2. **Install dependencies**
 
-npm install
+    ```bash
+    npm install
+    ```
 
+3. **Configure your API key**
 
-	3.	Create a .env file
+    Create a `.env` file in the root directory and add your OpenAI API key:
 
-VITE_OPENAI_API_KEY=your-openai-api-key-here
+    ```env
+    VITE_OPENAI_API_KEY=your-openai-api-key-here
+    ```
 
+4. **Start the dev server**
 
-	4.	Run the project
+    ```bash
+    npm run dev
+    ```
 
-npm run dev
+    The chatbot UI will be running at [http://localhost:3000](http://localhost:3000) (or a similar local URL).
 
-The chatbot UI will be available at http://localhost:3000 (or similar depending on the framework used).
+---
 
-⸻
+> **🚨 Security Tip:**  
+> Never expose your OpenAI API key in public repos or client-side code for production.  
+> Use a backend proxy or server-side code if deploying publicly.
+
+---
+
+🎉 That’s it! You’re ready to chat with your own AI bot.
 
 ⚠️ Security Note
 
