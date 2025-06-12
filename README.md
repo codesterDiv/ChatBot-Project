@@ -1,8 +1,10 @@
-Sure! Here’s the complete README.md content for your chatbot UI project using OpenAI API — clean, professional, and copy-paste ready:
-
 # 💬 Chatbot UI using OpenAI API
 
+Live Link : - [click me](https://melodious-pastelito-518737.netlify.app/) 
+
 Create an intelligent and sleek ChatGPT-style chatbot using your OpenAI API key. This project provides a fully functional and customizable UI with real-time responses from GPT models.
+
+![image](https://github.com/user-attachments/assets/755b4830-5bac-42de-a98e-bbaa6742ec0e)
 
 ---
 
