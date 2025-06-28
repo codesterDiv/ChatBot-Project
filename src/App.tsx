@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import Background from './components/Background';
 import ChatHeader from './components/ChatHeader';
 import MessageBubble from './components/MessageBubble';
